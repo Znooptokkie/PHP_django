@@ -1,0 +1,17 @@
+# Verberg omgevingsvariabelen
+.env
+
+# Verberg MySQL/MariaDB configuratiebestand
+my.cnf
+
+# Verberg gecompileerde Python-bestanden
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Verberg virtuele omgeving
+venv/
+
+# Verberg __pycache__ directories waar ze ook verschijnen
+**/__pycache__/

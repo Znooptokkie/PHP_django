@@ -1,0 +1,9 @@
+# my.cnf.example
+# Vul deze waarden in en hernoem het bestand naar 'my.cnf' om verbinding te maken met de database.
+
+[client]
+user=database_user
+password=database_password
+database=database_name 
+host=localhost
+default-character-set = utf8mb4
